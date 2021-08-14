@@ -27,25 +27,25 @@ Yet to be built. !
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Bot-Ro-Bot/Transfer-Learning-Brain-Tumor-Dataset-.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Transfer-Learning-Brain-Tumor-Dataset-
 ```
 
-Install dependencies
+Install Libraries
 
 ```bash
-  npm install
+  pip install -r requirements.txt
 ```
 
-Start the server
+Run
 
 ```bash
-  npm run start
+  python app.py
 ```
 
   
